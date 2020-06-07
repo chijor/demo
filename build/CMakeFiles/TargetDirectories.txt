@@ -1,0 +1,3 @@
+/home/jun/Desktop/c++/Lei/build/CMakeFiles/edit_cache.dir
+/home/jun/Desktop/c++/Lei/build/CMakeFiles/rebuild_cache.dir
+/home/jun/Desktop/c++/Lei/build/CMakeFiles/point.dir

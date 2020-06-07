@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/point.dir/ss.cpp.o  -o point -rdynamic 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jun/Desktop/c++/Lei/Point.hpp
+
+/home/jun/Desktop/c++/Lei/point.hpp
+
+/home/jun/Desktop/c++/Lei/ss.cpp
+stdio.h
+/home/jun/Desktop/c++/Lei/stdio.h
+iostream
+-
+Point.hpp
+/home/jun/Desktop/c++/Lei/Point.hpp
+point.hpp
+/home/jun/Desktop/c++/Lei/point.hpp
+
