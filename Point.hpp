@@ -9,3 +9,4 @@ public:
     void setPoint(int x, int y);
     void printPont();
 };
+//
